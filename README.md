@@ -1,18 +1,18 @@
 # Move It
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/italocc-git/nlw-04-moveIt/blob/main/LICENSE) 
 
-# Sobre o projeto
+# About the project
 
 https://moveit-nlw4-italo.vercel.app/
 
-Projeto concluído na semana NLW da Rocketseat utilizando NextJs.
-O moveIt é um aplicativo que se baseia na técnica de Pomodoro para dar intervalos de tempo para quem passa muito tempo na frente do computador. 
-Em cada intervalo o usuário precisa fazer uma atividade física para relaxar os músculos e a mente .
-Ao completar a atividade o usuário deve clicar na opção de completei para ganhar pontos e consequentemente avançar de nível
+Project completed in Rocketseat's NLW week using NextJs.
+moveIt is an application based on the Pomodoro technique to give time intervals for those who spend a lot of time in front of the computer.
+In each interval the user needs to do a physical activity to relax the muscles and mind.
+When completing the activity, the user must click on the completed option to earn points and consequently advance to the next level.
 
 <img src='https://github.com/rocketseat-education/nlw-04-reactjs/blob/main/.github/logo.png' alt='nlw4' />
 
-# Tecnologias utilizadas
+# Technologies
 <ul>
   <li> HTML / CSS / JS / TypeScript </li>
   <li> React / NextJS</li>
@@ -20,29 +20,30 @@ Ao completar a atividade o usuário deve clicar na opção de completei para gan
   <li> React Icons / React DOM</li>
  </ul>
  
- ## Implantação em produção
+ ## Deployment in production
 - Front end web: Vercel
 
-# Como executar o projeto
+# How to run the project
  
  ## Front end web
-Pré-requisitos: npm / yarn
+Required: npm / yarn
 
 ```bash
-# clonar repositório
+# clone the git repository
 git clone https://github.com/italocc-git/nlw-04-moveIt.git
 
-# entrar na pasta do projeto moveit-next
+# enter the project folder
 cd moveit-next
 
-# instalar dependências
+# install dependencies
 yarn install / npm install
 
-# executar o projeto
+# run the project
 yarn start / npm run start
 ```
-<i> OBS: Se certifique que a porta 3000 não esteja sendo usada . Geralmente isso ocorre quando você executa um projeto next ao mesmo tempo. </i> 
-# Autor
+<i>NOTE: Make sure that port 3000 is not being used . This usually happens when you run a project close to the same time. </i>
+
+# Author
 
 Italo Costa Cavalcante
 
